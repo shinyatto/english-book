@@ -1,6 +1,6 @@
 # Rework
 
-|vocabulary|parts of speech|meaing in Japanese|
+|vocabulary|part of speech|meaning in Japanese|
 |---|---|---|
 |intense|adjective|夢中な|
 |stick|transive verb|〜を突き刺す、〜をくっつける|
@@ -26,7 +26,7 @@
 |refer to A as B|idiom|AをBと呼ぶ|
 |inconsistent|adjective|矛盾した、一貫性のない|
 |improvisation|noun|即興、アドリブ|
-|improvise|intransive verv|即興でやる|
+|improvise|intransive verb|即興でやる|
 |screwed up||混乱した、失敗した|
 |contemplate|intransive verb|熟考する、よく考える|
 |obstacle|noun|障害|
